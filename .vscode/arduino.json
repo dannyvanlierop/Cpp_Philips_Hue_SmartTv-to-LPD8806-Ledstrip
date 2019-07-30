@@ -1,0 +1,22 @@
+{
+    "board": "esp32:esp32:esp32doit-devkit-v1",
+    "configuration": "FlashFreq=80,UploadSpeed=921600,DebugLevel=none",
+    "output": "A:\\Arduino_IDE\\build",
+    "programmer": "AVRISP mkII",
+    "port": "COM4",
+    "sketch": "Cpp_Philips-HueTv-to-LPD8806-Ledstrip.ino",
+    "prebuild": "",
+    "arduino.path": "A:/Arduino_IDE",
+    "arduino.commandPath": "arduino_debug.exe",
+    "arduino.logLevel": "info",
+    "arduino.enableUSBDetection": true,
+    "arduino.disableTestingOpen": false,
+    "arduino.skipHeaderProvider": false,
+    "arduino.additionalUrls": [
+        "https://raw.githubusercontent.com/VSChina/azureiotdevkit_tools/master/package_azureboard_index.json",
+        "http://arduino.esp8266.com/stable/package_esp8266com_index.json",
+        "https://dl.espressif.com/dl/package_esp32_index.json",
+        "http://digistump.com/package_digistump_index.json"
+    ],
+    "arduino.defaultBaudRate": 115200
+}

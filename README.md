@@ -1,2 +1,1 @@
-# Cpp_Philips-HueTv-to-LPD8806-Ledstrip
- 
+# Philips_HueTv_to_LPD8806_Ledstrip

@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "name": "ESP32",
+            "includePath": [
+                "${workspaceRoot}\\**",
+                "A:\\Arduino_IDE\\libraries\\**",
+                "A:\\Arduino_IDE\\portable\\sketchbook\\libraries\\**",
+                "A:\\Arduino_IDE\\portable\\packages\\esp32\\tools\\**",
+                "A:\\Arduino_IDE\\portable\\packages\\esp32\\hardware\\esp32\\1.0.1\\**",
+                "A:\\Arduino_IDE\\portable\\packages\\esp8266\\hardware\\esp8266\\2.5.0\\**",
+                "A:\\Arduino_IDE\\portable\\packages\\esp8266\\tools\\**",
+                "A:\\Arduino_IDE\\portable\\packages\\esp8266\\hardware\\esp8266\\2.5.1\\**",
+                "A:\\Arduino_IDE\\portable\\packages\\esp32\\hardware\\esp32\\1.0.3-rc1\\**"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}\\**",
+                    "A:\\Arduino_IDE\\libraries\\**",
+                    "A:\\Arduino_IDE\\portable\\sketchbook\\libraries\\**",
+                    "A:\\Arduino_IDE\\portable\\packages\\esp32\\tools\\**",
+                    "A:\\Arduino_IDE\\portable\\packages\\esp32\\hardware\\esp32\\1.0.1\\**"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "A:\\Arduino_IDE\\portable\\packages\\esp8266\\tools\\**",
+                "A:\\Arduino_IDE\\portable\\packages\\esp8266\\hardware\\esp8266\\2.5.0\\**",
+                "A:\\Arduino_IDE\\portable\\packages\\esp32\\tools\\**",
+                "A:\\Arduino_IDE\\portable\\packages\\esp32\\hardware\\esp32\\1.0.1\\**"
+            ],
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}

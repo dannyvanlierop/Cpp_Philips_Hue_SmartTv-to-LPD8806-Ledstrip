@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Cpp_Philips-HueTv-to-LPD8806-Ledstrip_dump",
+			"path": "A:\\Arduino_IDE\\portable\\sketchbook\\LED_and_Displays\\LED_STRIP_LPD8806\\Cpp_Philips-HueTv-to-LPD8806-Ledstrip_dump"
+		},
+		{
+			"name": "Cpp_Philips-HueTv-to-LPD8806-Ledstrip",
+			"path": "A:\\Arduino_IDE\\portable\\sketchbook\\LED_and_Displays\\LED_STRIP_LPD8806\\Cpp_Philips-HueTv-to-LPD8806-Ledstrip"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}
